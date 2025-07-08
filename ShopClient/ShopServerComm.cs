@@ -25,6 +25,7 @@ namespace ShopClient
 
         public async Task<bool> ConnectAsync(string accountNo)
         {
+            //connects to the server and authenticates the user with an account number
             try
             {
                 _client = new TcpClient();
