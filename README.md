@@ -1,5 +1,5 @@
 # eCommerce-Application-using-.Net-4.8-C-7.3
-Uses async functions and TCP networking to simulate an eCommerce purchasing page. Event-based programming to control GUI elements.
+Uses async functions and TCP networking to simulate an eCommerce purchasing page. Events are used to control GUI elements.
 Built in Visual Studio 2022 using .Net 4.8 and C# 7.3.
 
 <h1>User Functions</h1>
