@@ -3,6 +3,7 @@ Uses async functions and TCP networking to simulate an eCommerce purchasing page
 Built in Visual Studio 2022 using .Net 4.8 and C# 7.3.
 
 <h1>User Functions</h1>
+*Must configure multiple startup projects, setting ShopServer and ShopClient to start simultaneously*
 The user can:
 <ol>
   <li>Login on the authentication screen</li>
